@@ -3,8 +3,10 @@ Here are some codes used to generate human movements with numpy. It is quite fas
 
 
 Data required: population and centroid of each administrative region.
+
+
 The codes first parse the website "https://en.wikipedia.org/wiki/List_of_districts_of_Madhya_Pradesh" for the name and population of each district of Madhya Pradesh state in India.
-The "OpenStreetMap" API was used to get the boundary of each district and the distance between districts.
+The "OpenStreetMap" API was then used to get the boundary of each district and the distance between districts.
 
 
 The codes follow some parts of this paper: Reference 1 https://www.sciencedirect.com/science/article/pii/S1877050916302216, but use matrix operations to make the generation much faster.
