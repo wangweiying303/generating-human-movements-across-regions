@@ -23,4 +23,6 @@ The codes finally generate a matrix of shape 1000000x385, where each row indicat
 A number indicates a location (number is the index of location in the list "locs").
 
 
-message me if you need any help or if you seek for collaborations :)
+"generation of movements.ipynb" is the original one. "generation of movements_part3_mass generation.ipynb" is used for huge volume of generation (5,000,000 persons) and faster calculation of the distribution of waiting time and number of visits.
+
+The correctness of codes is not guaranteed. Message me if you need any help/notice any error/seek collaboration :)
