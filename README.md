@@ -21,3 +21,6 @@ In addition, when people have only stayed in one area (explored no other areas),
 
 The codes finally generate a matrix of shape 1000000x385, where each row indicates a person's movements in 385 days. One entry for one day.
 A number indicates a location (number is the index of location in the list "locs").
+
+
+message me if you need any help or if you seek for collaborations :)
